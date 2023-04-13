@@ -1,0 +1,32 @@
+.reset-btn {
+    padding: 20px 50px;
+    background-color: aquamarine;
+}
+
+.start-btn {
+    padding: 20px 50px;
+    background-color: rgb(127, 146, 255);
+}
+
+.stop-btn {
+    padding: 20px 50px;
+    background-color: rgb(255, 232, 127);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.fz-30 {
+    font-size: 30px;
+}
+
+.img {
+    margin-bottom: 30px;
+}
+
+.app {
+    text-align: center;
+    margin-top: 20px;
+}
